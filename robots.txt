@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://waexeoxien.noralongoria.com/sitemap.xml
